@@ -11170,11 +11170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Drew\\Desktop\\APIs Final Project\\MyFirstAPI\\MyFirstAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Drew\\Desktop\\APIs Final Project\\Final-Project-API\\MyFirstAPI.csproj",
       "projectName": "MyFirstAPI",
-      "projectPath": "C:\\Users\\Drew\\Desktop\\APIs Final Project\\MyFirstAPI\\MyFirstAPI.csproj",
+      "projectPath": "C:\\Users\\Drew\\Desktop\\APIs Final Project\\Final-Project-API\\MyFirstAPI.csproj",
       "packagesPath": "C:\\Users\\Drew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Drew\\Desktop\\APIs Final Project\\MyFirstAPI\\obj\\",
+      "outputPath": "C:\\Users\\Drew\\Desktop\\APIs Final Project\\Final-Project-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Drew\\AppData\\Roaming\\NuGet\\NuGet.Config"
